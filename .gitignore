@@ -8,3 +8,6 @@ logs
 logs/*
 logs/**  */
 *.keras
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+.ipynb_checkpoints/** */
